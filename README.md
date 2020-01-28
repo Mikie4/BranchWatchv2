@@ -1,1 +1,3 @@
 # BranchWatchv2
+## Notes
+This project is no longer being developed. It is fully functional with planned revisions but the changes have been pushed to a new version that will be web based. I am currently hosting it using IIS but the new version just writes a static HTML document that can be served by any provider. This allows for more data to be shown in a user friendly way (such as expandable cells where the most important data is shown per cell but can be expanded to other relavent data). This new project also uses JSON for data storage as opposed to the current custom way which required a custom function to read and write data to files. The new project is currently private but may be made public in the future.
